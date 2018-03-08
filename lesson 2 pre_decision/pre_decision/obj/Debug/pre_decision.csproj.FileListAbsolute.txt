@@ -1,0 +1,7 @@
+C:\Users\Eren\Desktop\csharp kurs 2018\pre_decision\pre_decision\bin\Debug\pre_decision.exe.config
+C:\Users\Eren\Desktop\csharp kurs 2018\pre_decision\pre_decision\bin\Debug\pre_decision.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\pre_decision\pre_decision\bin\Debug\pre_decision.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\pre_decision\pre_decision\obj\Debug\pre_decision.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\pre_decision\pre_decision\obj\Debug\pre_decision.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\pre_decision\pre_decision\obj\Debug\pre_decision.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\pre_decision\pre_decision\obj\Debug\pre_decision.pdb

@@ -1,0 +1,7 @@
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb
