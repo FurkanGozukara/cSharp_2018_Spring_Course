@@ -28,7 +28,7 @@ namespace OperatorsExpressionsStatements
 
             //Multiplication operatpr
             x = 12 * 5;
-
+            Console.WriteLine();
             // () method operator
             // . member accessor operator
             // =  assigment operator 
@@ -59,6 +59,15 @@ namespace OperatorsExpressionsStatements
             //inline conditional operator
             x = (y == gg) ? 12 : 32; // == ? :
 
+            if (y == gg)
+            {
+                x = 12;
+            }
+            else
+            {
+                x = 32;
+            }
+
             //member access and method invocation
             Console.WriteLine("gg");
 
@@ -68,11 +77,14 @@ namespace OperatorsExpressionsStatements
             if (x == y)
             {
                 gg = 323;
+
+
+
             }
 
             //white spaces and empty lines doesnt matter in c# 
 
-            x + y; // syntax matter 
+            int c = x + y; // syntax matter 
 
         }
     }

@@ -5,3 +5,10 @@ C:\Users\Eren\Desktop\csharp kurs 2018\pre_hello_world_console\pre_hello_world_c
 C:\Users\Eren\Desktop\csharp kurs 2018\pre_hello_world_console\pre_hello_world_console\obj\Debug\pre_hello_world_console.csproj.CoreCompileInputs.cache
 C:\Users\Eren\Desktop\csharp kurs 2018\pre_hello_world_console\pre_hello_world_console\obj\Debug\pre_hello_world_console.exe
 C:\Users\Eren\Desktop\csharp kurs 2018\pre_hello_world_console\pre_hello_world_console\obj\Debug\pre_hello_world_console.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 0 pre_hello_world_console\pre_hello_world_console\bin\Debug\pre_hello_world_console.exe.config
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 0 pre_hello_world_console\pre_hello_world_console\bin\Debug\pre_hello_world_console.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 0 pre_hello_world_console\pre_hello_world_console\bin\Debug\pre_hello_world_console.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 0 pre_hello_world_console\pre_hello_world_console\obj\Debug\pre_hello_world_console.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 0 pre_hello_world_console\pre_hello_world_console\obj\Debug\pre_hello_world_console.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 0 pre_hello_world_console\pre_hello_world_console\obj\Debug\pre_hello_world_console.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 0 pre_hello_world_console\pre_hello_world_console\obj\Debug\pre_hello_world_console.pdb

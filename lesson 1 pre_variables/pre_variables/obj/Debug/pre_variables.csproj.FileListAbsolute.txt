@@ -5,3 +5,10 @@ C:\Users\Eren\Desktop\csharp kurs 2018\pre_variables\pre_variables\obj\Debug\pre
 C:\Users\Eren\Desktop\csharp kurs 2018\pre_variables\pre_variables\obj\Debug\pre_variables.csproj.CoreCompileInputs.cache
 C:\Users\Eren\Desktop\csharp kurs 2018\pre_variables\pre_variables\obj\Debug\pre_variables.exe
 C:\Users\Eren\Desktop\csharp kurs 2018\pre_variables\pre_variables\obj\Debug\pre_variables.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 1 pre_variables\pre_variables\bin\Debug\pre_variables.exe.config
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 1 pre_variables\pre_variables\bin\Debug\pre_variables.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 1 pre_variables\pre_variables\bin\Debug\pre_variables.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 1 pre_variables\pre_variables\obj\Debug\pre_variables.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 1 pre_variables\pre_variables\obj\Debug\pre_variables.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 1 pre_variables\pre_variables\obj\Debug\pre_variables.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 1 pre_variables\pre_variables\obj\Debug\pre_variables.pdb
