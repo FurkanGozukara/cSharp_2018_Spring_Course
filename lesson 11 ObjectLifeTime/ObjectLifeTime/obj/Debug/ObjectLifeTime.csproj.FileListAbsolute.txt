@@ -1,0 +1,6 @@
+C:\Users\Eren\Desktop\csharp kurs 2018\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.pdb

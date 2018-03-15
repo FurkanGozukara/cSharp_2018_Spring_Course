@@ -1,0 +1,6 @@
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 10 Classes\Classes\bin\Debug\Classes.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 10 Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 10 Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 10 Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 10 Classes\Classes\obj\Debug\Classes.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 10 Classes\Classes\obj\Debug\Classes.pdb
