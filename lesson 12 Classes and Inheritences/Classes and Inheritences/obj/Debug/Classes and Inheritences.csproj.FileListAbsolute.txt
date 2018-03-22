@@ -1,0 +1,6 @@
+C:\Users\Eren\Desktop\csharp kurs 2018\Classes and Inheritences\Classes and Inheritences\bin\Debug\Classes and Inheritences.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\Classes and Inheritences\Classes and Inheritences\bin\Debug\Classes and Inheritences.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\Classes and Inheritences\Classes and Inheritences\obj\Debug\Classes and Inheritences.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\Classes and Inheritences\Classes and Inheritences\obj\Debug\Classes and Inheritences.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\Classes and Inheritences\Classes and Inheritences\obj\Debug\Classes and Inheritences.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\Classes and Inheritences\Classes and Inheritences\obj\Debug\Classes and Inheritences.pdb

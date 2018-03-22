@@ -4,3 +4,9 @@ C:\Users\Eren\Desktop\csharp kurs 2018\DatetAndTimes\DatetAndTimes\obj\Debug\Dat
 C:\Users\Eren\Desktop\csharp kurs 2018\DatetAndTimes\DatetAndTimes\obj\Debug\DatetAndTimes.csproj.CoreCompileInputs.cache
 C:\Users\Eren\Desktop\csharp kurs 2018\DatetAndTimes\DatetAndTimes\obj\Debug\DatetAndTimes.exe
 C:\Users\Eren\Desktop\csharp kurs 2018\DatetAndTimes\DatetAndTimes\obj\Debug\DatetAndTimes.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 9 DatetAndTimes\DatetAndTimes\bin\Debug\DatetAndTimes.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 9 DatetAndTimes\DatetAndTimes\bin\Debug\DatetAndTimes.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 9 DatetAndTimes\DatetAndTimes\obj\Debug\DatetAndTimes.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 9 DatetAndTimes\DatetAndTimes\obj\Debug\DatetAndTimes.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 9 DatetAndTimes\DatetAndTimes\obj\Debug\DatetAndTimes.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 9 DatetAndTimes\DatetAndTimes\obj\Debug\DatetAndTimes.pdb

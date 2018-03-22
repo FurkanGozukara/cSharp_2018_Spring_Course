@@ -8,6 +8,24 @@ namespace HelperMethod
 {
     class Program
     {
+        private static string megaSecretFormula(int X, int Y)
+        {
+            //some cool stuff here
+            return string.Format("{0} * {1} is {2}", X, Y, X * Y);
+        }
+
+        private static string megaSecretFormula(int X, int Y, int Z)//different signature // overloaded method
+        {
+            //some cool stuff here
+            return string.Format("{0} * {1} * {2} is {3}", X, Y, Z, X * Y * Z);
+            // return $"{X} * {Y} * {Z} is {X * Y * Z}"; 
+
+        }
+
+        private static void megaSecretFormula()
+        {
+            Console.WriteLine("this is void method that returns nothing");
+        }
 
         static void Main(string[] args)
         {
@@ -31,26 +49,12 @@ namespace HelperMethod
         private static string superSecretFormula()
         {
             //some cool stuff here
-            return "hello world from helper method";
+            if (3 == 3)
+                return "hello world from helper method";
+            else
+                return 3.ToString();
         }
 
-        private static string megaSecretFormula(int X, int Y)
-        {
-            //some cool stuff here
-            return string.Format("{0} * {1} is {2}", X, Y, X * Y);
-        }
-
-        private static string megaSecretFormula(int X, int Y, int Z)//different signature // overloaded method
-        {
-            //some cool stuff here
-            return string.Format("{0} * {1} * {2} is {3}", X, Y, Z, X * Y * Z);
-            // return $"{X} * {Y} * {Z} is {X * Y * Z}"; 
-
-        }
-
-        private static void megaSecretFormula()
-        {
-            Console.WriteLine("this is void method that returns nothing");
-        }
+    
     }
 }

@@ -5,3 +5,10 @@ C:\Users\Eren\Desktop\csharp kurs 2018\HelperMethod\HelperMethod\obj\Debug\Helpe
 C:\Users\Eren\Desktop\csharp kurs 2018\HelperMethod\HelperMethod\obj\Debug\HelperMethod.csproj.CoreCompileInputs.cache
 C:\Users\Eren\Desktop\csharp kurs 2018\HelperMethod\HelperMethod\obj\Debug\HelperMethod.exe
 C:\Users\Eren\Desktop\csharp kurs 2018\HelperMethod\HelperMethod\obj\Debug\HelperMethod.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 6 HelperMethod\HelperMethod\bin\Debug\HelperMethod.exe.config
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 6 HelperMethod\HelperMethod\bin\Debug\HelperMethod.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 6 HelperMethod\HelperMethod\bin\Debug\HelperMethod.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 6 HelperMethod\HelperMethod\obj\Debug\HelperMethod.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 6 HelperMethod\HelperMethod\obj\Debug\HelperMethod.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 6 HelperMethod\HelperMethod\obj\Debug\HelperMethod.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 6 HelperMethod\HelperMethod\obj\Debug\HelperMethod.pdb

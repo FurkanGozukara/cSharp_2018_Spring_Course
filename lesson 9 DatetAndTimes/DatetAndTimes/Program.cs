@@ -71,7 +71,7 @@ namespace DatetAndTimes
             DateTime myJobStartDate = new DateTime(2018, 3, 1, 9, 0, 0);
             Console.WriteLine("My job start date is " + myJobStartDate.ToString());
 
-            DateTime torosUniversityOpenDate = DateTime.Parse("23/07/2009");
+            DateTime torosUniversityOpenDate = DateTime.Parse("23.07.2009 09:12:15");
             TimeSpan openSince = DateTime.Now.Subtract(torosUniversityOpenDate);
             Console.WriteLine("TimeSpan.ToString() " + openSince.ToString());
             Console.WriteLine("TimeSpan.TotalDays " + openSince.TotalDays.ToString("N"));
@@ -108,20 +108,23 @@ namespace DatetAndTimes
 
 
             Stopwatch sw = Stopwatch.StartNew();
+            DateTime dtBegin = DateTime.Now;
             doSomething();
             sw.Stop();
+            DateTime dtEnd = DateTime.Now;
 
-            Console.WriteLine("Time taken to complete doSomething method is: {0} seconds", sw.Elapsed.TotalSeconds);
+            TimeSpan tDiff = dtEnd- dtBegin  ;
+
+            Console.WriteLine("Time taken to complete doSomething method is: {0:N} seconds", sw.Elapsed.Ticks);
+
+            Console.WriteLine("Time taken to complete doSomething method is: {0:N} seconds", tDiff.Ticks);
 
             Console.ReadLine();
         }
 
         static void doSomething()
         {
-            for (int i = 0; i < 999999999; i++)
-            {
-                string temp = "temp";
-            }
+   
         }
     }
 }

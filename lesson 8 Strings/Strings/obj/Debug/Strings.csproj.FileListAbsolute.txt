@@ -5,3 +5,10 @@ C:\Users\Eren\Desktop\csharp kurs 2018\Strings\Strings\bin\Debug\Strings.exe
 C:\Users\Eren\Desktop\csharp kurs 2018\Strings\Strings\bin\Debug\Strings.pdb
 C:\Users\Eren\Desktop\csharp kurs 2018\Strings\Strings\obj\Debug\Strings.exe
 C:\Users\Eren\Desktop\csharp kurs 2018\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 8 Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 8 Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 8 Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 8 Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 8 Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 8 Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 8 Strings\Strings\obj\Debug\Strings.pdb

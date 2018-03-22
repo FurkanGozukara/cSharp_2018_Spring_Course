@@ -39,7 +39,21 @@ namespace ReadTextFileWhile
                 Console.WriteLine(lines[i]);
             }
 
+            List<string> myList = File.ReadAllLines("Values.txt").ToList();
+
+            foreach (var item in myList.ToList())
+            {
+                myList.Add("32");
+                Console.WriteLine("my list: " + item);
+            }
+
+            for (int i = 0; i < myList.Count; i++)
+            {
+                Console.WriteLine(myList[i]);
+            }
+
             myReader.Close();//if you forget to close, the file may remain open and this can cause errors if someone else access the file
+
             Console.Read();
 
         }

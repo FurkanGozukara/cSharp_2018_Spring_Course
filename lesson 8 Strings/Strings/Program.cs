@@ -21,10 +21,16 @@ namespace Strings
 
             Console.WriteLine(myString);
 
-            myString = "what if i need \n a new line?  ";
+            myString = "what if i need \n a new line? \a ";
+
 
             Console.WriteLine(myString);
-      
+
+
+            myString = "tab \t space space tab \t tab ";
+
+
+            Console.WriteLine(myString);
 
 
             //https://blogs.msdn.microsoft.com/csharpfaq/2004/03/12/what-character-escape-sequences-are-available/
@@ -46,7 +52,7 @@ namespace Strings
             myString = string.Format("{0:P}", .4518);
             Console.WriteLine(myString);
 
-            myString = string.Format("Phone number: {0:(##) ### #####}", 901234567);
+            myString = string.Format("Phone number: {0:(##) ### #####}", 44901234567);
             //it begins putting numbers with right side and goes to the left
             Console.WriteLine(myString);
 
@@ -54,7 +60,7 @@ namespace Strings
 
             for (int i = 0; i < 22; i++)
             {
-               /// myString += i + "--";
+                /// myString += i + "--";
                 myString = myString + i + "--";
             }
 
@@ -70,28 +76,43 @@ namespace Strings
             }
             Console.WriteLine(myBuilder.ToString());
 
+            Console.WriteLine("ÇŞĞASDçgÖÇAsdİ");
+
             Console.OutputEncoding = Encoding.UTF8;
+
+            Console.WriteLine("ÇŞĞASDçgÖÇAsdİ");
 
             myString = "so appending strings to each other each times, the .Net assembly composes a new string and it is very heavy operation";
 
             myString = myString.Substring(5, 25);//0 is first character just like arrays 0 based
             Console.WriteLine(myString);
 
+            myString = "so appending strings to each other each times, the .Net assembly composes a new string and it is very heavy operation";
+
+            string myString2 = "";
+
+            for (int i = 5; i < 30; i++)
+            {
+                myString2 += myString[i];
+            }
+            Console.WriteLine(myString2);
+
             myString = myString.ToUpper();
             Console.WriteLine(myString);
 
             myString = myString.ToLower();
-          
-            myString = myString.ToUpper( new System.Globalization.CultureInfo("tr-TR"));
+
+            myString = myString.ToUpper(new System.Globalization.CultureInfo("tr-TR"));
             Console.WriteLine(myString);
 
-            myString = myString.Replace(" ", "--");
+            myString = myString.Replace("İ", "$$$");
             Console.WriteLine(myString);
 
-            myString = " shall we take a break?  ";
+            myString = " l shall we take a break?  ";
+            var temp = myString.TrimStart('l', ' ','s');
             Console.WriteLine(string.Format("before trim lenght {0}, after trim lenght {1}",
-                myString.Length, 
-                myString.Trim().Length));
+                myString.Length,
+                myString.TrimStart('l',' ').Length));
             //trim method returns a string without leading and trailing empty spaces
             Console.Read();
         }

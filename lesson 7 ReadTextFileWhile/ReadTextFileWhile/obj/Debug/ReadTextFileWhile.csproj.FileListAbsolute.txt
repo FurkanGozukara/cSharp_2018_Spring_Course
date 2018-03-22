@@ -6,3 +6,11 @@ C:\Users\Eren\Desktop\csharp kurs 2018\ReadTextFileWhile\ReadTextFileWhile\obj\D
 C:\Users\Eren\Desktop\csharp kurs 2018\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
 C:\Users\Eren\Desktop\csharp kurs 2018\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
 C:\Users\Eren\Desktop\csharp kurs 2018\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\Values.txt
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 7 ReadTextFileWhile\ReadTextFileWhile\bin\Debug\Values.txt
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 7 ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 7 ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 7 ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 7 ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 7 ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 7 ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\lesson 7 ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
