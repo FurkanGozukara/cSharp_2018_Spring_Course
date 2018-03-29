@@ -34,8 +34,13 @@ namespace ObjectLifeTime
             this process is called as garbage collection
             */
 
+            for (int i = 0; i < 11111; i++)
+            {
+                i = i * i;
+            }
+       
             GraphicCard myNewCard = new GraphicCard();
-
+        
 
             //set properties
             myNewCard.Make = "Nvidia";//we are setting properties here
@@ -54,15 +59,28 @@ namespace ObjectLifeTime
             //the references are deleted and the objects in memory is collected
             //by garbage collector later
 
-            myNewCard = null;
-            myOtherCard = null;
+            //myNewCard = null;
+            //myOtherCard = null;
             //when will actuall objects deleted from memory is not precise
             //however there may be situations where these references are holding
             //important system resources etc. in such cases, we want to use deterministic finalization
             //this is topic of later lessons
 
             //whenever we create an instance of a class we use method operator
+
+            myOtherCard.Make = "denem1";
+            myNewCard.Make = "deneme2";
+
+
+            Console.WriteLine(myNewCard.Make);
+            Console.WriteLine(myOtherCard.Make);
+
             myNewCard = new GraphicCard();
+            myNewCard.Make = "New";
+
+            Console.WriteLine(myNewCard.Make);
+            Console.WriteLine(myOtherCard.Make);
+
             //which means classes have constructors. allows developers to to pass parameters
             //or do operations during the initilization stage of the object
 
@@ -73,6 +91,14 @@ namespace ObjectLifeTime
 
             //understanding notion of overloading and usage of static are crucial
             //make sure that method signature is different when coding several overloaded methods
+
+            myNewCard = new GraphicCard();
+            myNewCard.Make = "Nvidia";//we are setting properties here
+            myNewCard.Model = "GTX 1070";
+            myNewCard.GPUMhz = 1683;
+            myNewCard.RamMemory = 8192;
+
+
 
             Console.ReadLine();
 

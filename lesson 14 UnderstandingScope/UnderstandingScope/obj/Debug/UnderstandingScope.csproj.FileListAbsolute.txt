@@ -1,0 +1,6 @@
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+C:\Users\Eren\Desktop\csharp kurs 2018\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.pdb
